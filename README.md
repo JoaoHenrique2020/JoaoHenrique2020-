@@ -4,8 +4,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=JoaoHenrique2020&color=58A6FF&style=for-the-badge&label=VISITORS)](https://github.com/JoaoHenrique2020)
-
 </div>
 
 ---
@@ -35,7 +33,7 @@ const joao = {
 <td width="50%" valign="top">
 
 ### 🤖 Agentes de IA
-Desenvolvo agentes conversacionais que interagem com clientes via WhatsApp — coletam dados, validam informações, respondem dúvidas e retomam conversas automaticamente.
+Desenvolvo agentes conversacionais que interagem com clientes via WhatsApp — coletam dados, validam informações, respondem dúvidas, simulam preços, retomam conversas automaticamente.
 
 </td>
 <td width="50%" valign="top">
